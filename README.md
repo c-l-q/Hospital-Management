@@ -30,8 +30,8 @@
 8. Run the Backend Server:
    ```
    npm run dev
-   ``` 
-<!-- by lyh -->
+   ```
+   <!-- by 罗钰慧 -->
 
 
 
@@ -62,7 +62,7 @@
   - **MongoDB & Mongoose**: Build database models and ensure data persistence  
   - **NextAuth**: Implement user authentication and authorization  
   - **React Datepicker**: Provide intuitive date selection components
-  - <!-- by nsx -->
+  - <!-- by 农氏线 -->
 
 **Usage**
 
@@ -87,4 +87,4 @@ Next, fill in the patient's name, select the doctor for the appointment, the app
 After filling it out, carefully check all the contents to ensure the accuracy of the information.
 Finally, click the "Submit" button. The system will respond immediately and generate an appointment confirmation prompt. You can view the appointment details in "My Appointments", and if there are any problems, you can contact the online customer service for assistance at any time.
 3. Finally, click the "Submit" button. The system will respond immediately and generate an appointment confirmation prompt. You can view the appointment details in "My Appointments", and if there are any problems, you can contact the online customer service for assistance at any time. 
-                                                   <!--by mlh -->
+                                                   <!--by 莫莉华 -->
