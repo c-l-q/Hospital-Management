@@ -497,7 +497,7 @@ const pdfOptions = {
 - “这段代码构建的数据结构，应该是用于医院管理系统中展示医生信息”翻译为“This data structure constructed by the code is supposed to be used to display doctor information in the hospital management system” ，“supposed to be used”表达了“应该用于”的意思。
 <!-- by 刘蓉蓉 -->
 
-<!--by 莫丽华-->
+<!--by 莫莉华-->
 第一次修改记录
 （一）
 1.首先了解了README.md,对一些内容进行撰写，内容涵盖项目概述，功能介绍，使用方法等。
@@ -515,7 +515,7 @@ const pdfOptions = {
 2. 修改内容：在 “使用预约表单安排新的预约” 部分，添加了 “预约流程指引” 的小标题，使预约步骤更加清晰明了。同时在步骤 2 中，更明确地说明了需要填写的信息类别，如 “按提示依次填写病人姓名、选择预约的医生、预约日期及时间段以及主要的信息”。
 3. 修改原因：增强预约流程的可读性和可操作性，帮助用户更顺利地完成预约操作。
 4. 涉及模块：网站使用方法文档中的预约操作部分。
-<!--by 莫丽华-->
+<!--by 莫莉华-->
 
 <!--by 莫杰-->
 5月9日，使用ai将项目介绍中译英
